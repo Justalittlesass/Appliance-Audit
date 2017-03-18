@@ -1,0 +1,10 @@
+C:\Users\c_bar\Downloads\Appliance_Audit\bin\Debug\Candace_Barnes_P5.exe.config
+C:\Users\c_bar\Downloads\Appliance_Audit\obj\Debug\Candace_Barnes_P5.exe
+C:\Users\c_bar\Downloads\Appliance_Audit\obj\Debug\Candace_Barnes_P5.xml
+C:\Users\c_bar\Downloads\Appliance_Audit\obj\Debug\Candace_Barnes_P5.pdb
+C:\Users\c_bar\Downloads\Appliance_Audit\bin\Debug\Candace_Barnes_P5.exe
+C:\Users\c_bar\Downloads\Appliance_Audit\bin\Debug\Candace_Barnes_P5.pdb
+C:\Users\c_bar\Downloads\Appliance_Audit\bin\Debug\Candace_Barnes_P5.xml
+C:\Users\c_bar\Downloads\Appliance_Audit\obj\Debug\Candace_Barnes_P5.Appliance_Audit.resources
+C:\Users\c_bar\Downloads\Appliance_Audit\obj\Debug\Candace_Barnes_P5.Resources.resources
+C:\Users\c_bar\Downloads\Appliance_Audit\obj\Debug\Appliance_Audit.vbproj.GenerateResource.Cache
